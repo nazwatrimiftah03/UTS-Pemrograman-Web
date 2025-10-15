@@ -1,0 +1,38 @@
+#pengenalan {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 25px;
+    margin: 40px auto;
+    max-width: 900px;
+    box-shadow: 0 4px 10px rgba(106, 13, 173, 0.15);
+    }
+    #pengenalan h1, #pengenalan h2 {
+    color: #6a0dad;
+    text-align: center;
+    }
+    #pengenalan p {
+    text-align: justify;
+    line-height: 1.7;
+    color: #333;
+    }
+    #pengenalan pre {
+    background: #f3e8ff;
+    padding: 12px;
+    border-radius: 10px;
+    overflow-x: auto;
+    font-size: 0.9rem;
+    }
+    #pengenalan table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    }
+    #pengenalan th, #pengenalan td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    }
+    #pengenalan th {
+    background-color: #e9d5ff;
+    color: #4b0082;
+}
